@@ -12,7 +12,7 @@ Folder Exercise 2
 ---
 Contains the required files for Exercise 2 <br />
 Created using vue-cli <br />
-Run npm i and then npm run serve to check on your local drive<br />
+Run <b>npm i</b> and then <b>npm run serve</b> to check on your local drive<br />
 You can check this link to have a quick look: https://htmlpreview.github.io/?https://github.com/obzcura/frontend-assessment/blob/master/exercise-2/dist/index.html<br/>
 
 Bonus point
